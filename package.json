@@ -58,7 +58,7 @@
     "jest-serializer-vue": "^2.0.2",
     "jest-vue-preprocessor": "^1.7.1",
     "laravel-mix": "^5.0.1",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "sass": "^1.25.0",
     "sass-loader": "^8.0.2",
